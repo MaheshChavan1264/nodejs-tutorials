@@ -1,7 +1,7 @@
 {
-  "name": "06tut",
+  "name": "07tut",
   "version": "1.0.0",
-  "description": "Intro to ExpressJs framework",
+  "description": "07tut Middleware with expressjs",
   "main": "index.js",
   "scripts": {
     "start": "node server",
@@ -10,6 +10,7 @@
   "author": "Mahesh Chavan",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "date-fns": "^2.27.0",
     "express": "^4.17.1",
     "nodemon": "^2.0.15",
