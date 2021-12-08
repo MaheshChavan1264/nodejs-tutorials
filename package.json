@@ -1,0 +1,17 @@
+{
+  "name": "05tut",
+  "version": "1.0.0",
+  "description": "NodeJs tutorial 05 building a web server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Mahesh Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.27.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
