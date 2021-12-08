@@ -1,2 +1,8 @@
 20211208	19:13:19	9d2808b0-4a9a-48a5-92a4-101c1b6ed25c	TypeError	fsPromises.readFil is not a function20211208	22:00:36	9db72b00-317d-499e-93b8-683f56c5f05a	Error:Not allowed by CORS20211208	22:01:13	b5010e94-d322-4be5-a3cc-05c40dceb106	
-Error:Not allowed by CORS
+Error:Not allowed by CORS20211208	22:18:34	485fab92-076d-4b5b-b707-35219746583f	
+Error:ENOENT: no such file or directory, stat 'E:\nodejs\05tut\routes\views\index.html'20211208	22:19:53	7ca7c621-0d1b-4205-be63-a67e8568ea05	
+Error:ENOENT: no such file or directory, stat 'E:\nodejs\05tut\routes\views\index.html'20211208	22:19:53	5ed5d0e4-7db3-4cb2-9482-7bc13ca0a428	
+Error:ENOENT: no such file or directory, stat 'E:\nodejs\05tut\routes\views\index.html'20211208	22:19:54	20b9563e-b47f-4e8e-917d-facb6f16e955	
+Error:ENOENT: no such file or directory, stat 'E:\nodejs\05tut\routes\views\index.html'20211208	22:20:17	781c22b2-90a4-4ec2-8d64-dc085c41ae29	
+Error:ENOENT: no such file or directory, stat 'E:\nodejs\05tut\routes\views\subdir\test.html'20211208	22:42:55	a431cb62-8b04-41d0-811f-1cad1e056a51	
+SyntaxError:Unexpected token } in JSON at position 22
